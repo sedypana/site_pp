@@ -1,6 +1,8 @@
 <h1 align="center"> Тестовый сайт для ознакомления с функциями HTML </h1>
 <h2 align="center"> 
-[](./images/logo.png)
+ 
+![logo](./images/logo.png)
+
 </h2>
 
 > [!NOTE]  
