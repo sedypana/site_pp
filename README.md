@@ -30,5 +30,11 @@
 - <p style="text-align: left;"> Как открыть 
     <a href="https://strelokhalfer.github.io/mv-help/page/01_11_08.html">*localhost*</a> </p>
   
-- <p style="text-align: left;"> Как склонировать репозиторий<br> '''git init'''<br>'''git clone https://github.com/sedypana/site_pp.git'''
+- <p style="text-align: left;"> Как склонировать репозиторий<br> ```git init```<br>```git clone https://github.com/sedypana/site_pp.git```
 </p>
+### Авторы
+
+<h3 align="center">
+
+![](https://img.shields.io/badge/sedypana-marker?style=for-the-badge&logo=3258&logoSize=50&label=made%20by)
+<h3>
