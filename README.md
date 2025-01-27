@@ -26,9 +26,9 @@
 ![auth](./images/auth.png)
 
 ### Решение проблем
-- Сайт находится на стадии доработки, поэтому еще не выпущен в мировой хост. Посмотреть функционал можно клонировав репозиторий и запустить сайт через **localhost**
-- Как открыть 
-    <a href="https://github.com/Flowseal/zapret-discord-youtube/discussions/251">*localhost*</a>
-  </p>
-- <p style="text-align: left;">
-    <img src="https://cdn-icons-png.flaticon.com/16/906/906361.png" alt="discord" style="vertical-align: middle;"/>
+Сайт находится на стадии доработки, поэтому еще не выпущен в мировой хост. Посмотреть функционал можно клонировав репозиторий и запустить сайт через **localhost**
+- <p style="text-align: left;"> Как открыть 
+    <a href="https://strelokhalfer.github.io/mv-help/page/01_11_08.html">*localhost*</a> </p>
+  
+- <p style="text-align: left;"> Как склонировать репозиторий<br> '''git init'''<br>'''git clone https://github.com/sedypana/site_pp.git'''
+</p>
