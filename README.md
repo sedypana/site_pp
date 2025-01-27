@@ -30,8 +30,10 @@
 - <p style="text-align: left;"> Как открыть 
     <a href="https://strelokhalfer.github.io/mv-help/page/01_11_08.html">*localhost*</a> </p>
   
-- <p style="text-align: left;"> Как склонировать репозиторий<br> ```git init```<br>```git clone https://github.com/sedypana/site_pp.git```
+- <p style="text-align: left;"> Как склонировать репозиторий<br> 
+ ```git init```<br>```git clone https://github.com/sedypana/site_pp.git```
 </p>
+
 ### Авторы
 
 <h3 align="center">
