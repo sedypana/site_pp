@@ -1,8 +1,6 @@
 <h1 align="center"> Тестовый сайт для ознакомления с функциями HTML </h1>
 <h2 align="center"> 
  
-![](https://img.shields.io/badge/11.2.3-marker?logo=3258&logoSize=50&label=Avalonia&color=red) ![](https://img.shields.io/badge/24.1.4-marker?logo=3258&logoSize=50&label=DBeaver&color=blue) ![](https://img.shields.io/badge/0%2Fyear-marker?logo=3258&logoSize=50&label=downloads)<br>
- 
 ![logo](./images/logo.png)
 
 </h2>
