@@ -41,6 +41,6 @@
 
 <h3 align="center">
 
-![](https://img.shields.io/badge/sedypana%20-%20h?style=for-the-badge&label=MODE%20BY&link=https%3A%2F%2Fgithub.com%2Fsedypana)
+![](https://img.shields.io/badge/sedypana%20-%20h?style=for-the-badge&label=MODE%20BY&labelColor=purple&color=violet&link=https%3A%2F%2Fgithub.com%2Fsedypana)
 
 <h3>
